@@ -15,7 +15,7 @@ This repository contains the code I have used to do the following:
 - Create emoji database and tables using SQL files
 - PHP code to read emoji unicode text file from unicode website and load it into the database
 - PHP Code to create javascript files from the database content for use in a range of emoji browsers I have created - which are here
-  - https://zzalsjr8.github.io/projects/emoji-browsers/index.html
+  - https://static-rabbit.github.io/projects/emoji-browsers/index.html
 - Store the output of the above in a range of files (javascript, csv and xlsx)
 
 ## Content
@@ -44,11 +44,11 @@ The content on this repository is made up of the following:
 
 #### step-02-setup-create-javascript-data.php
 
-- File to read through emoji database data and create a file called `emojis.js` which is used in all of the [emoji browser](https://zzalsjr8.github.io/projects/emoji-browsers/index.html) pages apart from the treeview version.
+- File to read through emoji database data and create a file called `emojis.js` which is used in all of the [emoji browser](https://static-rabbit.github.io/projects/emoji-browsers/index.html) pages apart from the treeview version.
 
 #### step-03-setup-create-javascript-quercus-data.php
 
-- File to read through emoji database data and create a file called `emojis-quercus.js` which is used in the [treeview emoji browser](https://zzalsjr8.github.io/projects/emoji-browsers/emoji-browser-treeview.html).
+- File to read through emoji database data and create a file called `emojis-quercus.js` which is used in the [treeview emoji browser](https://static-rabbit.github.io/projects/emoji-browsers/emoji-browser-treeview.html).
 
 ### Data files
 
